@@ -1,0 +1,9 @@
+<resources>
+    <string name="hello">Hello World, MoneyGrabbing!</string>
+    <string name="app_name">抓鈔票</string>
+    <string name="button_start">開始</string>
+    <string name="button_instruction">說明</string>
+    <string name="button_exit">結束</string>
+    <string name="button_back">返回</string>
+    <string name="text_instruction">遊戲方式：\n\n\t在一定時間內，用兩指觸碰螢幕，並對著鈔票做出抓取的動作，即可增加等同於該鈔票面額的分數。</string>
+</resources>
